@@ -2,7 +2,7 @@
 
 	Spring boot project with implementation of swagger/swagger UI. 
 
-## Technologies used
+## Technologies
 	java: 17
 	Spring boot: 3.0.1
 	Maven
@@ -11,9 +11,9 @@
 	packaging: jar
 
 
-## Dependencies used
+## Dependencies
 
-# openapi swagger3 
+### openapi swagger3 
 ```xml
 
 <dependency>
@@ -24,7 +24,7 @@
 
 ```
 
-# junit jupiter version 
+### junit jupiter version 
 ```xml
 <dependency>
 	<groupId>org.junit.jupiter</groupId>
@@ -35,7 +35,7 @@
 
 ```
 
-# RESTful API, Apache Tomcat
+### RESTful API, Apache Tomcat
 
 ```xml
 
